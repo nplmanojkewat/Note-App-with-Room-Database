@@ -8,3 +8,5 @@ object MainScreen
 
 @Serializable
 data class InsertNote(val id: Int)
+
+

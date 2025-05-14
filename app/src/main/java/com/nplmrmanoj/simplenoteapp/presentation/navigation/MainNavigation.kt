@@ -27,6 +27,7 @@ fun MainNavigation(viewModel: NoteViewModel, mainActivity: MainActivity) {
             InsertNoteScreen(viewModel, navController, id.id)
         }
 
+
     }
 
 }
